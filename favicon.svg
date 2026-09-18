@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <rect width="512" height="512" rx="128" fill="#090D16"/>
+  <defs>
+    <linearGradient id="cyberGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="50%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#6366F1"/>
+    </linearGradient>
+  </defs>
+  <!-- Shield path -->
+  <path d="M256 64L112 128V240C112 342.4 176 432.8 256 464C336 432.8 400 342.4 400 240V128L256 64Z" fill="#101726" stroke="url(#cyberGlow)" stroke-width="24" stroke-linejoin="round"/>
+  <!-- Lock Symbol inside shield -->
+  <path d="M256 176C238.3 176 224 190.3 224 208V232H216C202.7 232 192 242.7 192 256V328C192 341.3 202.7 352 216 352H296C309.3 352 320 341.3 320 328V256C320 242.7 309.3 232 296 232H288V208C288 190.3 273.7 176 256 176ZM244 208C244 201.4 249.4 196 256 196C262.6 196 268 201.4 268 208V232H244V208Z" fill="url(#cyberGlow)"/>
+</svg>
