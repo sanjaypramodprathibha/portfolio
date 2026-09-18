@@ -1,8 +1,15 @@
-# Sanjay Pramod Prathibha — Personal Portfolio Website
+# Sanjay Pramod Prathibha | Portfolio Website
 
 An ultra-premium, minimalist personal portfolio website built specifically for **Sanjay Pramod Prathibha** (SOC Analyst L1 & Detection Engineer).
 
-Inspired by modern cybersecurity and SOC operations design languages, featuring a deep obsidian slate background (`#090D16`), electric cyber cyan accents (`#00F0FF` / `#38BDF8`), dot-grid background matrix, interactive scroll-reveal animations, responsive glassmorphism navigation, and direct email integration.
+Features a deep obsidian slate background (`#090D16`), electric cyber cyan accents (`#00F0FF` / `#38BDF8`), dot-grid background matrix, interactive scroll-reveal animations, responsive glassmorphism navigation, and direct FormSubmit email integration.
+
+---
+
+## 🌐 GitHub Repository & Live Deployment
+
+- **GitHub Repository**: [https://github.com/sanjaypramodprathibha/portfolio](https://github.com/sanjaypramodprathibha/portfolio)
+- **Render Live Site**: [https://sanjaypramod.onrender.com](https://sanjaypramod.onrender.com)
 
 ---
 
@@ -11,12 +18,11 @@ Inspired by modern cybersecurity and SOC operations design languages, featuring 
 To view and test the website locally on your computer:
 
 ```bash
-# Using Python's built-in HTTP server
 python3 -m http.server 8000
 ```
 
 Then open your browser and navigate to:
-`http://localhost:8000`
+`http://localhost:8000` (or `http://localhost:8050`)
 
 ---
 
@@ -28,14 +34,17 @@ Then open your browser and navigate to:
 
 ---
 
-## ⚡ 1-Minute Vercel Deployment
+## ⚡ How to Push Future Updates to GitHub
 
-Deploying this site live to **Vercel** (just like `adithyanu.vercel.app`) takes less than a minute:
+Whenever you make changes to your portfolio in the future, open Terminal and run:
 
-1. Push this repository to your **GitHub** account.
-2. Go to [Vercel](https://vercel.com/) and click **Add New Project**.
-3. Import your GitHub repository (`proud-darwin` or your repository name).
-4. Click **Deploy**. Vercel will automatically host your static portfolio and assign your custom `.vercel.app` URL!
+```bash
+git add .
+git commit -m "Update portfolio content"
+git push
+```
+
+Render will automatically detect your push and redeploy your live site in seconds!
 
 ---
 
