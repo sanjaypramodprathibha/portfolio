@@ -1,54 +1,25 @@
-# Sanjay Pramod Prathibha | Portfolio Website
+# Sanjay Pramod Prathibha — Security Operations Portfolio
 
-An ultra-premium, minimalist personal portfolio website built specifically for **Sanjay Pramod Prathibha** (SOC Analyst L1 & Detection Engineer).
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Render-00F0FF?style=for-the-badge&logo=render)](https://sanjaypramod.onrender.com)
+[![Role](https://img.shields.io/badge/Focus-SOC_Analyst_L1_%7C_Detection_Engineer-38BDF8?style=for-the-badge)](https://www.linkedin.com/in/sanjay-p-p/)
 
-Features a deep obsidian slate background (`#090D16`), electric cyber cyan accents (`#00F0FF` / `#38BDF8`), dot-grid background matrix, interactive scroll-reveal animations, responsive glassmorphism navigation, and direct FormSubmit email integration.
-
----
-
-## 🌐 GitHub Repository & Live Deployment
-
-- **GitHub Repository**: [https://github.com/sanjaypramodprathibha/portfolio](https://github.com/sanjaypramodprathibha/portfolio)
-- **Render Live Site**: [https://sanjaypramod.onrender.com](https://sanjaypramod.onrender.com)
+An ultra-premium, minimalist personal portfolio showcasing enterprise SOC lab implementations, custom detection engineering (MITRE ATT&CK), threat hunting, and AI-powered SecOps automation.
 
 ---
 
-## 🚀 Quick Local Preview
-
-To view and test the website locally on your computer:
-
-```bash
-python3 -m http.server 8000
-```
-
-Then open your browser and navigate to:
-`http://localhost:8000` (or `http://localhost:8050`)
+## 🌐 Live Website
+👉 **[https://sanjaypramod.onrender.com](https://sanjaypramod.onrender.com)**
 
 ---
 
-## 📁 File Structure
-
-- `index.html` — Complete semantic HTML structure containing all sections (Hero, About, Skills, Projects, Experience, Certifications, Contact, Footer).
-- `style.css` — Custom CSS system with design tokens, glassmorphism backdrop blurs, dark slate theme, responsive layout breakpoints, and animations.
-- `script.js` — Lightweight JavaScript handling scroll reveals (`IntersectionObserver`), active navigation link highlighting, mobile drawer, and AJAX form submissions.
-
----
-
-## ⚡ How to Push Future Updates to GitHub
-
-Whenever you make changes to your portfolio in the future, open Terminal and run:
-
-```bash
-git add .
-git commit -m "Update portfolio content"
-git push
-```
-
-Render will automatically detect your push and redeploy your live site in seconds!
+## 🛡️ Key Competencies & Projects
+- **Detection Engineering & Threat Hunting Lab**: Self-hosted SOC lab using Wazuh SIEM, Sysmon, Atomic Red Team, and custom Python Detection-as-Code test frameworks.
+- **AI Incident Response & SecOps Copilot**: Full-stack AI SOC platform built with Python & FastAPI, Gemini AI, VirusTotal, AbuseIPDB, and STIX 2.1 threat intelligence export.
+- **SIEM & Log Analysis**: Wazuh, Splunk, alert triage, incident investigation, and 24x7 rotational shift disciplines.
 
 ---
 
-## 📧 Contact Form Setup
-
-The contact form is powered by **FormSubmit** (`https://formsubmit.co/sanjaypramodprathibha@gmail.com`). 
-The first time someone submits a message on your live site, FormSubmit will send a single verification email to `sanjaypramodprathibha@gmail.com`. Click the confirmation link in that email to activate instant inbox delivery for all future submissions.
+## 📩 Connect & Contact
+- **LinkedIn**: [linkedin.com/in/sanjay-p-p](https://www.linkedin.com/in/sanjay-p-p/)
+- **GitHub**: [github.com/sanjaypramodprathibha](https://github.com/sanjaypramodprathibha)
+- **Email**: [sanjaypramodprathibha@gmail.com](mailto:sanjaypramodprathibha@gmail.com)
